@@ -97,6 +97,11 @@ redirect_from:
 <tbody>
 <tr>
 <td width="5%">[2]</td>
+<td width="95%"><strong>Florko, K.R.N.</strong> 2023. The effects of trophic interactions and climate change on the space use of an Arctic marine mesopredator. Institute for the Oceans and Fisheries, University of British Columbia. Vancouver, BC.<a href="https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0438415" target="_blank" rel="noopener noreferrer"> Link</a>.
+</td>
+</tr>
+<tr>
+<td width="5%">[2]</td>
   <td width="95%"><strong>Florko, K.R.N.</strong> 2018. Polar bear (<i>Ursus maritimus</i>) foraging ecology in the Western Canadian Arctic. Department of Biology, York University. Toronto, ON.<a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/34565" target="_blank" rel="noopener noreferrer"> Link</a>.
 </td>
 </tr>
