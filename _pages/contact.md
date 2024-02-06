@@ -11,7 +11,9 @@ redirect_from:
 
 Katie Florko  
 Fisheries and Oceans Canada
+
 Vancouver BC, Canada
+
 katie.florko@dfo-mpo.gc.ca
 
 ---
