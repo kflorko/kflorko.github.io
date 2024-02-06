@@ -10,10 +10,8 @@ redirect_from:
 {% include base_path %}
 
 Katie Florko  
-Fisheries and Oceans Canada
-
-Vancouver BC, Canada
-
+Fisheries and Oceans Canada  
+Vancouver BC, Canada  
 katie.florko@dfo-mpo.gc.ca
 
 ---
