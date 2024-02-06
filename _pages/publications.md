@@ -11,7 +11,7 @@ redirect_from:
 <h5>Please get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
 
 <h3>Articles submitted, in review, in press, etc.</h3> 
-<table class="tg">
+<table class="tg" style="font-size: 18px;">
 <tbody>
 <tr> 
 <td width="5%">[16]</td>
