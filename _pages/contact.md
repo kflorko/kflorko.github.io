@@ -10,10 +10,9 @@ redirect_from:
 {% include base_path %}
 
 Katie Florko  
-Institute for the Oceans & Fisheries  
-University of British Columbia  
-Vancouver, BC, Canada V6T 1Z4   
-katieflorko@gmail.com
+Fisheries and Oceans Canada
+Vancouver BC, Canada
+katie.florko@dfo-mpo.gc.ca
 
 ---
 *I currently work and live on the traditional, ancestral, and unceded territories of the xʷməθkʷəy̓əm (Musqueam), Skwxwú7mesh (Squamish), and səl̓ilwətaɁɬ təməxʷ (Tsleil-Waututh) Nations.*
