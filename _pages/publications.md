@@ -129,7 +129,9 @@ redirect_from:
 <tr>
     <td width="5%">[1]</td>
     <td width="95%" style="text-indent: -2em; padding-left: 2em;">
-        <strong>Florko, K.R.N.</strong>, Bohn, S.J., Kalcounis-Rueppell, M.C., Brigham, R.M.
+        <strong>Florko, K.R.N.</strong>, Bohn, S.J., Kalcounis-Rueppell, M.C., Brigham, R.M. 2017. A 23-year-old little brown bat (<i>Myotis lucifugus</i>) record from southwest Saskatchewan, Canada. Northwestern Naturalist, 98: 57-59. <a href="https://bioone.org/journals/northwestern-naturalist/volume-98/issue-1/NWN16-19.1/A-23-Year-Old-Little-Brown-Bat-Myotis-lucifugus-Record/10.1898/NWN16-19.1.short#:~:text=On%2031%20May%202015%2C%20we,oldest%20bat%20record%20in%20Saskatchewan." target="_blank" rel="noopener noreferrer">doi:10.1898/NWN16-19.1</a>.
+       </td>
+      </tr>
     </tbody>
 </table>
 
