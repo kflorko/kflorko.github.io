@@ -12,7 +12,7 @@ redirect_from:
 
 <h3>University of British Columbia, Masters of Data Science Program</h3>
 <table class="tg">
-<tbody>
+<tbody style="font-size: 16px;">
 <tr>
 <td width="20%">Winter 2022</td>
 <td width="70%">Regression, Part 2</td> 
@@ -37,7 +37,7 @@ redirect_from:
 </table>
 <h3>York University, Department of Biology</h3>
 <table class="tg">
-<tbody>
+<tbody style="font-size: 16px;">
 <tr>
 <td width="20%">Winter 2017</td>
 <td width="80%">Conservation Biology</td>
@@ -66,7 +66,7 @@ redirect_from:
 </table>
 <h3>University of Winnipeg, Department of Biology</h3>
 <table class="tg">
-<tbody>
+<tbody style="font-size: 16px;">
 <tr>
 <td width="20%">Winter 2015</td>
 <td width="80%">Invertebrate Biology</td>
