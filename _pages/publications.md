@@ -12,7 +12,7 @@ redirect_from:
 
 <h3>Articles submitted, in review, in press, etc.</h3> 
 <table class="tg">
-<tbody style="font-size: 18px;">
+<tbody style="font-size: 14px;">
 <tr> 
 <td width="5%">[16]</td>
 <td width="95%"><strong>Florko, K.R.N.</strong>, Togunov, R.R., Gryba, R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. 2024. A comparison of statistical methods used to characterize species-habitat associations with movement data. arXiv.2401.17389. <a href= "https://arxiv.org/abs/2401.17389" rel="noopener noreferrer">doi:10.48550/arXiv.2401.17389</a>. </td>
@@ -25,7 +25,7 @@ redirect_from:
 </table>
 <h3>Publications</h3>
 <table class="tg">
-<tbody>
+<tbody style="font-size: 14px;">
 <tr>
 <td width="5%">[14]</td>
 <td width="95%"><strong>Florko, K.R.N.</strong>, Shuert, C.R., Cheung, W.W.L., Ferguson, S.H., Jonsen, I.D., Rosen, D.A.S., Sumaila, U.R., Tai, T.C., Yurkowski, D.J., Auger-Méthé, M. 2023. Linking movement and dive data to prey distribution models: new insights in foraging behaviour and potential pitfalls of movement analyses. Movement Ecology. <a href= "https://movementecologyjournal.biomedcentral.com/articles/10.1186/s40462-023-00377-2" rel="noopener noreferrer">doi:10.1186/s40462-023-00377-2</a>.</td>
@@ -88,7 +88,7 @@ redirect_from:
 </table>
 <h3>Unpublished reports</h3>
 <table class="tg">
-<tbody>
+<tbody style="font-size: 14px;">
 <tr>
 <td width="5%">[2]</td>
   <td width="95%">Petersen, S.D., <strong>Florko, K.R.N.</strong>, Menzies, A.K., and the IPBCC Advisory Board. 2018. Management rational and options for orphan polar bear cubs in Manitoba. White paper report prepared by the Assiniboine Park Conservancy. Winnipeg, MB. 24p.
@@ -103,7 +103,7 @@ redirect_from:
 </table>
 <h3>Degree Theses</h3>
 <table class="tg">
-<tbody>
+<tbody style="font-size: 14px;">
 <tr>
 <td width="5%">[2]</td>
 <td width="95%"><strong>Florko, K.R.N.</strong> 2023. The effects of trophic interactions and climate change on the space use of an Arctic marine mesopredator. Institute for the Oceans and Fisheries, University of British Columbia. Vancouver, BC.<a href="https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0438415" target="_blank" rel="noopener noreferrer"> Link</a>.
