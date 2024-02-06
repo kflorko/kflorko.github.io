@@ -11,7 +11,7 @@ redirect_from:
 <h4>Various media articles, radio interviews, and blog posts about my research - written better than I could!</h4>
 
 <table class="tg">
-<tbody>
+<tbody style="font-size: 16px;">
 <tr>
 <td width="12%">Nov 29, 2021</td>
 <td width="65%"><a href="https://ecologyforthemasses.com/2021/11/24/started-at-the-bottom-now-were-here/" rel="noopener noreferrer">Ecology for the Masses</a>. Started at the bottom, now we’re here… </td>
