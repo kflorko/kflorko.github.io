@@ -122,5 +122,33 @@ redirect_from:
 </tbody>
 </table>
 
+
+<h3>Degree Theses</h3>
+<table class="tg" style="font-size: 16px;">
+    <tbody>
+        <tr>
+            <td width="5%">[2]</td>
+            <td width="95%" style="text-indent: -1em; padding-left: 1em;">
+                <strong>Florko, K.R.N.</strong> 2023. The effects of trophic interactions and climate change on the space use of an Arctic marine mesopredator. Institute for the Oceans and Fisheries, University of British Columbia. Vancouver, BC.
+                <a href="https://open.library.ubc.ca/soa/cIRcle/collections/ubctheses/24/items/1.0438415" target="_blank" rel="noopener noreferrer">Link</a>.
+            </td>
+        </tr>
+        <tr>
+            <td width="5%">[2]</td>
+            <td width="95%" style="text-indent: -1em; padding-left: 1em;">
+                <strong>Florko, K.R.N.</strong> 2018. Polar bear (<i>Ursus maritimus</i>) foraging ecology in the Western Canadian Arctic. Department of Biology, York University. Toronto, ON.
+                <a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/34565" target="_blank" rel="noopener noreferrer">Link</a>.
+            </td>
+        </tr>
+        <tr>
+            <td width="5%">[1]</td>
+            <td width="95%" style="text-indent: -1em; padding-left: 1em;">
+                <strong>Florko, K.R.N.</strong> 2015. Haul-out patterns and natural history of harbour seals in the Churchill River Estuary. Department of Biology, University of Winnipeg. Winnipeg, MB.
+            </td>
+        </tr>
+    </tbody>
+</table>
+
+
 ---
 *I gratefully acknowledge that the research highlighted in these publications has taken place on the territories of the Inuit Nunangat.*
