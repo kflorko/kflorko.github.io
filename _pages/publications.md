@@ -11,8 +11,8 @@ redirect_from:
 <h5>Please get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
 
 <h3>Articles submitted, in review, in press, etc.</h3> 
-<table class="tg" style="font-size: 18px;">
-<tbody>
+<table class="tg">
+<tbody style="font-size: 18px;">
 <tr> 
 <td width="5%">[16]</td>
 <td width="95%"><strong>Florko, K.R.N.</strong>, Togunov, R.R., Gryba, R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. 2024. A comparison of statistical methods used to characterize species-habitat associations with movement data. arXiv.2401.17389. <a href= "https://arxiv.org/abs/2401.17389" rel="noopener noreferrer">doi:10.48550/arXiv.2401.17389</a>. </td>
