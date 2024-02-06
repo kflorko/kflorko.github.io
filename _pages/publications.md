@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 <h5>Please get in touch (katieflorko@gmail.com) to obtain reprints of any of the following publications.</h5>
 
-<h3>Submitted, in review, in press, etc.</h3> 
+<h3>Preprints</h3> 
 <table class="tg">
 <tbody style="font-size: 16px;">
 <tr> 
