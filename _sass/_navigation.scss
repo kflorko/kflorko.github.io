@@ -83,8 +83,7 @@
       line-height: 1.5;
       text-align: center;
       text-decoration: none;
-       color: #606A83;
-      #color: mix(#fff, $gray, 25%);
+      color: mix(#fff, $gray, 25%);
       border: 1px solid $light-gray;
       border-radius: 0;
 
@@ -372,8 +371,7 @@
 
 .toc {
   font-family: $sans-serif-narrow;
-   color: #606A83;
-  #color: $lighter-gray;
+   color: $lighter-gray;
   text-transform: uppercase;
   letter-spacing: 1px;
   background-color: #fff;
@@ -383,7 +381,6 @@
 
   .nav__title {
     #color: #fff;
-     color: #606A83;
     font-size: $type-size-6;
     background: $primary-color;
     border-top-left-radius: $border-radius;
@@ -401,7 +398,6 @@
   a {
     display: block;
     padding: 0.5rem 1rem;
-     color: #606A83;
     color: $lighter-gray;
     font-size: $type-size-7;
     font-weight: bold;
