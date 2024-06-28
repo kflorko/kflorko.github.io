@@ -14,13 +14,13 @@ redirect_from:
 <table class="tg" style="font-size: 16px;">
     <tbody>
         <tr>
-            <td width="5%">[16]</td>
+            <td width="5%">[18]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 <strong>Florko, K.R.N.</strong>, Togunov, R.R., Gryba, R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. 2024. A comparison of statistical methods used to characterize species-habitat associations with movement data. arXiv.2401.17389. <a href="https://arxiv.org/abs/2401.17389" rel="noopener noreferrer">doi:10.48550/arXiv.2401.17389</a>.
             </td>
         </tr>
         <tr>
-            <td width="5%">[15]</td>
+            <td width="5%">[17]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 <strong>Florko, K.R.N.</strong>, Ross, T.R., Ferguson, S.H., Northrup, J.M., Obbard, M.E., Thiemann, G.W., Yurkowski, D.J., Auger-Méthé, M. 2023. The dynamic interaction between predator and prey drives mesopredator movement and foraging ecology. bioRxiv. <a href="https://www.biorxiv.org/content/10.1101/2023.04.27.538582v1" rel="noopener noreferrer">doi:10.1101/2023.04.27.538582</a>.
             </td>
@@ -32,6 +32,20 @@ redirect_from:
 <h3>Publications</h3>
 <table class="tg" style="font-size: 16px;">
     <tbody>
+              <tr>
+            <td width="5%">[16]</td>
+            <td width="95%" style="text-indent: -2em; padding-left: 2em;">
+                MacLean, R.D., <strong>Florko, K.R.N.</strong>, Johnson, K.F., Ferguson, S.H., Michel, C., Thiemann, G.W., Yurkowski, D.J. 2024. Summary of marine mammal aerial surveys around Ellesmere Island, Nunavut in 2023. Canadian Technical Report of Fisheries and Aquatic Sciences. 3618: vii + 20 p.
+                <a href="https://drive.google.com/file/d/1JveNgvSrNwpCHy_BKPqErORLpry3zoHZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">LINK</a>.
+            </td>
+                        <tr>
+            <td width="5%">[15]</td>
+            <td width="95%" style="text-indent: -2em; padding-left: 2em;">
+                Low, E.B., <strong>Florko, K.R.N.</strong>, Mahoney, H.K., Barclay, R.M.R. 2024. Effects of a severe wildfire on a bat community in the Canadian Rocky Mountains. Forest Ecology and Management. 563: 121983.
+                <a href="https://www.sciencedirect.com/science/article/pii/S0378112724002950" target="_blank" rel="noopener noreferrer">doi:10.1016/j.foreco.2024.121983</a>.
+            </td>
+        </tr>
+        </tr>
         <tr>
             <td width="5%">[14]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
@@ -43,7 +57,7 @@ redirect_from:
             <td width="5%">[13]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 <strong>Florko, K.R.N.</strong>, Edkins, T., Ferguson, S.H., Yurkowski, D.J., Michel, C. 2023. Summary of marine mammal aerial surveys in Norwegian Bay and Ellesmere Island, Nunavut in 2022. Canadian Technical Report of Fisheries and Aquatic Sciences. 3534: vii + 19 p.
-                <a href="https://science-catalogue.canada.ca/record=4110429~S6" target="_blank" rel="noopener noreferrer">LINK</a>.
+                <a href="https://drive.google.com/file/d/1xajINB478e7KbqZkScmsDB7giy_JJnaL/view?usp=sharing" target="_blank" rel="noopener noreferrer">LINK</a>.
             </td>
         </tr>
         <tr>
