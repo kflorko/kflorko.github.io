@@ -185,7 +185,7 @@ redirect_from:
             <td width="5%">[2]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 <strong>Florko, K.R.N.</strong> 2018. Polar bear (<i>Ursus maritimus</i>) foraging ecology in the Western Canadian Arctic. Department of Biology, York University. Toronto, ON.
-                <a href="https://yorkspace.library.yorku.ca/xmlui/handle/10315/34565" target="_blank" rel="noopener noreferrer">Link</a>.
+                <a href="https://yorkspace.library.yorku.ca/items/3a039051-30d8-4fa1-80cd-376da63a3588" target="_blank" rel="noopener noreferrer">Link</a>.
             </td>
         </tr>
         <tr>
