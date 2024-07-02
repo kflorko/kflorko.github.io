@@ -85,7 +85,7 @@ redirect_from:
     <td width="5%">[9]</td>
     <td width="95%" style="text-indent: -2em; padding-left: 2em;">
         <strong>Florko, K.R.N.</strong>, Tai, T.C., Cheung, W.W.L., Sumaila, U.R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. 2021. Predicting how climate change threatens the prey base of Arctic marine predators. Ecology Letters, 24: 2563-2575.
-        <a href="https://onlinelibrary.wiley.com/doi/10.1111/ele.13866" rel="noopener noreferrer">doi:10.1111/ele.13866</a>.
+        <a href="https://drive.google.com/file/d/1Kr7aG1Dw4RogpZAD_7s6yjVBYjwkYauy/view" rel="noopener noreferrer">doi:10.1111/ele.13866</a>.
         <br>
         <strong>Florko, K.R.N.</strong>, Tai, T.C., Cheung, W.W.L., Sumaila, U.R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. 2021. Predicting how climate change threatens the prey base of Arctic marine predators [Dataset].
         <a href="https://doi.org/10.5061/dryad.x69p8czjs" rel="noopener noreferrer">doi:10.5061/dryad.x69p8czjs</a>.
