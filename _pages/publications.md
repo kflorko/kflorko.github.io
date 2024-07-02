@@ -102,7 +102,7 @@ redirect_from:
     <td width="5%">[7]</td>
     <td width="95%" style="text-indent: -2em; padding-left: 2em;">
         <strong>Florko, K.R.N.</strong>, Thiemann, G.W., Bromaghin, J.F. Richardson, E.S. 2021. Diet composition and body condition of polar bear (<i>Ursus maritimus</i>) in relation to sea ice habitat in the Canadian High Arctic. Polar Biology, 44: 1445–1456.
-        <a href="https://link.springer.com/article/10.1007/s00300-021-02891-8" target="_blank" rel="noopener noreferrer">doi:10.1007/s00300-021-02891-8</a>.
+        <a href="https://drive.google.com/file/d/1iczs5N79JPgvhP44h-ZVEM4kwocxQ7kp/view" rel="noopener noreferrer">doi:10.1007/s00300-021-02891-8</a>.
     </td>
 </tr>
 <tr>
