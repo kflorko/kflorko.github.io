@@ -14,13 +14,13 @@ redirect_from:
 <table class="tg" style="font-size: 16px;">
     <tbody>
         <tr>
-            <td width="5%">[18]</td>
+            <td width="5%">[20]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 <strong>Florko, K.R.N.</strong>, Togunov, R.R., Gryba, R., Ferguson, S.H., Yurkowski, D.J., Auger-Méthé, M. 2024. A comparison of statistical methods used to characterize species-habitat associations with movement data. arXiv.2401.17389. <a href="https://arxiv.org/abs/2401.17389" rel="noopener noreferrer">doi:10.48550/arXiv.2401.17389</a>.
             </td>
         </tr>
         <tr>
-            <td width="5%">[17]</td>
+            <td width="5%">[19]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 <strong>Florko, K.R.N.</strong>, Ross, T.R., Ferguson, S.H., Northrup, J.M., Obbard, M.E., Thiemann, G.W., Yurkowski, D.J., Auger-Méthé, M. 2023. The dynamic interaction between predator and prey drives mesopredator movement and foraging ecology. bioRxiv. <a href="https://www.biorxiv.org/content/10.1101/2023.04.27.538582v1" rel="noopener noreferrer">doi:10.1101/2023.04.27.538582</a>.
             </td>
@@ -32,6 +32,21 @@ redirect_from:
 <h3>Publications</h3>
 <table class="tg" style="font-size: 16px;">
     <tbody>
+      <tr>
+            <td width="5%">[18]</td>
+            <td width="95%" style="text-indent: -2em; padding-left: 2em;">
+                Ferguson, S.H., Higdon, J.W., Young, B.G., Petersen, S.D., Carlyle, C.G., Lea, E.V., Sauvé, C.C., Kohlbach, D., Fisk, A.T., Thiemann, G.W., <strong>Florko, K.R.N.</strong>, Muir, D.C., Hamilton, C.D., Houde, M., Sudlovenick, E., Yurkowski, D.J. 2024. A comparative analysis of life-history features and adaptive strategies of Arctic and subarctic seal species - who will win the climate change challenge? Canadian Journal of Zoology, 10.1139/cjz-2024-0093.
+                <a href="https://cdnsciencepub.com/doi/10.1139/cjz-2024-0093" target="_blank" rel="noopener noreferrer">LINK</a>.
+            </td>
+                        <tr>
+              <tr>
+       <tr>
+            <td width="5%">[17]</td>
+            <td width="95%" style="text-indent: -2em; padding-left: 2em;">
+                <strong>Florko, K.R.N.</strong>, Yurkowski, D.J., Breiter, C.C., Ferguson, S.H., Gamblin, H.E.L., Grottoli, A., Nace, A., Shuert, C.R., Petersen, S.D. 2024. Biologging reveals rapid movements of harbour seals between freshwater and marine habitats in the subarctic. Frontiers in Marine Science, 11:1435206.
+                <a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1435206/full" target="_blank" rel="noopener noreferrer">LINK</a>.
+            </td>
+                        <tr>
               <tr>
             <td width="5%">[16]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
