@@ -38,28 +38,27 @@ redirect_from:
                 Ferguson, S.H., Higdon, J.W., Young, B.G., Petersen, S.D., Carlyle, C.G., Lea, E.V., Sauvé, C.C., Kohlbach, D., Fisk, A.T., Thiemann, G.W., <strong>Florko, K.R.N.</strong>, Muir, D.C., Hamilton, C.D., Houde, M., Sudlovenick, E., Yurkowski, D.J. 2024. A comparative analysis of life-history features and adaptive strategies of Arctic and subarctic seal species - who will win the climate change challenge? Canadian Journal of Zoology, 10.1139/cjz-2024-0093.
                 <a href="https://cdnsciencepub.com/doi/10.1139/cjz-2024-0093" target="_blank" rel="noopener noreferrer">LINK</a>.
             </td>
-                        <tr>
-              <tr>
+      </tr>
        <tr>
             <td width="5%">[17]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 <strong>Florko, K.R.N.</strong>, Yurkowski, D.J., Breiter, C.C., Ferguson, S.H., Gamblin, H.E.L., Grottoli, A., Nace, A., Shuert, C.R., Petersen, S.D. 2024. Biologging reveals rapid movements of harbour seals between freshwater and marine habitats in the subarctic. Frontiers in Marine Science, 11:1435206.
                 <a href="https://www.frontiersin.org/journals/marine-science/articles/10.3389/fmars.2024.1435206/full" target="_blank" rel="noopener noreferrer">LINK</a>.
             </td>
-                        <tr>
+       </tr>
               <tr>
             <td width="5%">[16]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 MacLean, R.D., <strong>Florko, K.R.N.</strong>, Johnson, K.F., Ferguson, S.H., Michel, C., Thiemann, G.W., Yurkowski, D.J. 2024. Summary of marine mammal aerial surveys around Ellesmere Island, Nunavut in 2023. Canadian Technical Report of Fisheries and Aquatic Sciences. 3618: vii + 20 p.
                 <a href="https://drive.google.com/file/d/1JveNgvSrNwpCHy_BKPqErORLpry3zoHZ/view?usp=sharing" target="_blank" rel="noopener noreferrer">LINK</a>.
             </td>
+              </tr>
                         <tr>
             <td width="5%">[15]</td>
             <td width="95%" style="text-indent: -2em; padding-left: 2em;">
                 Low, E.B., <strong>Florko, K.R.N.</strong>, Mahoney, H.K., Barclay, R.M.R. 2024. Effects of a severe wildfire on a bat community in the Canadian Rocky Mountains. Forest Ecology and Management. 563: 121983.
                 <a href="https://www.sciencedirect.com/science/article/pii/S0378112724002950" target="_blank" rel="noopener noreferrer">doi:10.1016/j.foreco.2024.121983</a>.
             </td>
-        </tr>
         </tr>
         <tr>
             <td width="5%">[14]</td>
